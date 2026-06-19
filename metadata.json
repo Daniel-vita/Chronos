@@ -1,0 +1,6 @@
+{
+  "name": "Chronos",
+  "description": "Un'applicazione per la gestione del tempo, pianificazione giornaliera, report di produttività e consigli personalizzati tramite IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
